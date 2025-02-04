@@ -1,0 +1,13 @@
+# Directories
+intermediate/
+.vs/
+bin/
+out/
+.idea/
+
+# Files
+.user
+
+
+
+

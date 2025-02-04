@@ -1,9 +1,7 @@
 /out
-FyragicEngine/
 .vessel/
 /packages
 bin/
-intermediate
 /.vs
 build/
 .idea/
