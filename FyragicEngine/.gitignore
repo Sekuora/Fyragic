@@ -1,0 +1,10 @@
+/out
+.vessel/
+/packages
+bin/
+intermediate
+/.vs
+build/
+.idea/
+CMakeSettings.json
+Makefile
