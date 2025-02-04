@@ -6,7 +6,10 @@ extern Fengine::Application* Fengine::StartApplication();
 
 int main(int argc, char** argv)
 {
-	printf("Fyragic App Initialized");
+	Fengine::Log::Init();
+	F_CoreLog_Error("Initialized Core Log!");
+	F_Log_Info("Initialized Client Log!");
+
 	auto app = Fengine::StartApplication();
 	app->Run();
 	delete app;

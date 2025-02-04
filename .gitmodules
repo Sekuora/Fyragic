@@ -1,0 +1,3 @@
+[submodule "EngineCore/.vessel/ExternalLibraries/spdlog"]
+	path = EngineCore/.vessel/ExternalLibraries/spdlog
+	url = https://github.com/gabime/spdlog

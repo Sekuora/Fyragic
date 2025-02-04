@@ -3,10 +3,11 @@
 
 #include <stdio.h>
 
-#include "Fyragic/Application.h"
+#include "Fyragic/Application.h" 
+
+/// Log ///
+#include "Fyragic/Log.h"
 
 /// --- Entry Point --- ///
-
 #include "Fyragic/EntryPoint.h"
-
 /// ------------------ ///
