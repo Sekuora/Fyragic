@@ -6,3 +6,4 @@ build/
 .idea/
 CMakeSettings.json
 Makefile
+.vessel
